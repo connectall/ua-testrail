@@ -1,1 +1,1 @@
-# connectall-testrail-adapter
+# ua-testrail
