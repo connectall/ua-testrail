@@ -36,9 +36,9 @@ Flow Test Case from a project in TestRail into another application (like Rally),
 keep Modified Date Field as updated_on
 keep Date Time Format as yyyy-MM-dd'T'HH:mm:ss.SSS
 keep Query Date Format as SECS_SINCE_UNIX_EPOCH
-set MetaData project_id value
 keep Issue Type as TestCase
 keep Fields with updated_on as Datetime DATATYPE
+Query Modified Records: index.php?/api/v2/get_cases/${project_id}&updated_after=${last-modified-time}&limit=10&offset=0  has limit hardcoded as 10, and offset hardcoded as 0, modifiy accordingly if necessary.
 
 # Supporting Documentation
 
