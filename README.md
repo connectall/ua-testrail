@@ -42,4 +42,4 @@ Query Modified Records: index.php?/api/v2/get_cases/${project_id}&updated_after=
 
 # Supporting Documentation
 
-Third Party API Documentation: [Link to API Documentation]([https://learn.microsoft.com/en-us/rest/api/azure/devops/processes/lists/list?view=azure-devops-rest-7.1](https://support.testrail.com/hc/en-us/articles/15762591438996-Exporting-test-cases#getting-test-cases-0-0))
+Third Party API Documentation: https://learn.microsoft.com/en-us/rest/api/azure/devops/processes/lists/list?view=azure-devops-rest-7.1](https://support.testrail.com/hc/en-us/articles/15762591438996-Exporting-test-cases#getting-test-cases-0-0
